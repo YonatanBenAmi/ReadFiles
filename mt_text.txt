@@ -1,1 +1,7 @@
-Hello worldIt’s the first exercise in I/OThat mean it is number 1Not 2Not threeIt is excitingAnd i am all 4 it
+Hello world
+It's the first exercise in I/O
+That mean it is number 1
+Not 2
+Not three
+It is exciting
+And i am all 4 it
